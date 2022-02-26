@@ -1,0 +1,72 @@
+==================================================================
+https://keybase.io/wantondanny
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://wantondanny.com
+  * I am wantondanny (https://keybase.io/wantondanny) on keybase.
+  * I have a public key with fingerprint A59F ED5F 168B 1E04 4E48  508C 6799 AFA1 EE70 5E65
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010183a842b8fd36be60c06dfd994e9cf0d7f8d94dee811816f45134f5815142e39e0a",
+      "fingerprint": "a59fed5f168b1e044e48508c6799afa1ee705e65",
+      "host": "keybase.io",
+      "key_id": "6799afa1ee705e65",
+      "kid": "010183a842b8fd36be60c06dfd994e9cf0d7f8d94dee811816f45134f5815142e39e0a",
+      "uid": "d86c199aaffc34238888630d9c675a19",
+      "username": "wantondanny"
+    },
+    "service": {
+      "hostname": "wantondanny.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1645901897,
+  "expire_in": 157680000,
+  "prev": "067fb1360387a80fa8b199f9713e68fe1157c6b035b3880801301d5e1897174e",
+  "seqno": 5,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtUmtQVGUY3hW8cBugCIkC4yQNMQucb899M0WTEdSCpDvBdi7fYc+wnl12D3c3
+BnMwghi6wETOgGQ6OQYMI0i0hOGuiu1gFCE6CJjJKDHSGMaUGXYOk7/qZ++fb773
+fZ7nfd73+xpC/HRr9PnNnW3z9jyo981yOi66NLMC4WxCGWKqQArg8gGtAnQq5gJJ
+QEwIClBAYyyNGzlaFDCSgyTKo6QgCgyDQ4YXUYESaYHBBQhpAGhAijgBMFwkaEAA
+3AgxBqIsYkBESc6HDrtDkhVVliUYEQqECEiaAxDFcYjTBErzJMUwrMgCCCmUgCSh
+Ei02p8ZQzXGsEyZLNjWnXszL9v4D/z/7LlqWE2iSB2orVhR5DDditBokhgqM6phg
+AaMBndAhs7uhii5hZcUmC6wslyEuA6IWiiUearvVhvk3KJm37VYV7A6bYuNtVrVo
+URS706SRlTL7Mhpy5n90zJwkC+o2VUYxdDglm4yYgIrkFUkTBiROMOrwDGVAYKld
+ckCzpCEIiqRRNbQ+sFhbUR5JiRzASBSjKZZGRVZ9C4YRGQpgkKRFCFQOT3IoRnDq
+wCiNAgwFAgE1bUDhENFGK5RtiIlQfbL5qqZTypdZpcgBEVdgzQrMX6dfo4uJjPM/
+3HrTHFkb6/9celbd/R+4coX2/XSBAWH3M7WXw3QdLde7P56Se3Obn39KV9W92jv/
+0GPffvdRmuyaS+VebSzxsyht3VELrrd3vThwgArzZuU00E09e2e2dh7z3BzKcDhq
+TRWm6rXO6CMxOXbduOvW95jbEDLamjr7YXdL5V3X2bmlIf18Yt+9bF/dkDX0eEfP
+6yG1EzXrtxcMDKTENsZQp90PVF5znRzpc1z5c+tU/37T2pQiYNT3BClbZiLefG86
+0jXx/lFPcFx93EC9ZfTcvlP5lkd/C3x4x+clqG8PPQfe6b/xY+Gv1oOkb4a/GP3S
+6bMbudVjvjHX77Pe1nDLplWf/pw3CNKOfx1//kTGMJ3Y3NfQH7SqxToWOortXLz0
+gX97xA8j/DPRg37M+TsVTyYdSZC3LQ6337b5UoX1m+Z570/7mio8C9ve8F1MqR5t
+rs9wtyX1Hvbc2Im9Fj4+vTc4U3h60RP1zbixZunKva4LV/WGvPTy0nV7ChNeWMAj
++qKG1zVGNJIec1V5jtK0Iykg7YvBly+dmewlAbqrfXrl9aipuuCEt05k11w9EJT5
+oOFadui53E+ePfi4vWMk6+5XhYQnKik8/OT0IdNfwx4lIzk2vvxy4sbJM9Z++c4v
+1Z0g2rXhaNeFwFBv0Gedx9IP6QLePVUVsLnyj83eyaCJW12TS4+UlVT3bPdL1S9t
+KHTfluOnpFyzccuXqTO5wdzYK+4n/gY=
+=xi6X
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/wantondanny
+
+==================================================================
